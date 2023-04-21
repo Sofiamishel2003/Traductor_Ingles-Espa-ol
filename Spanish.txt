@@ -1,0 +1,6 @@
+house,casa, sustantivo
+dog,perro,sustantivo
+homework,tarea,verbo
+woman,mujer,sustantivo
+town,pueblo,sustantivo
+yes,si,afirmación
