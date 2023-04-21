@@ -18,7 +18,7 @@ public class Main {
         //Creación de
         int e=0;
         int c=0;
-        while (e!=2 && c!=3)
+        while (e!=2 || c!=3)
         {
             ArbolSplay arbol=new ArbolSplay();
             System.out.println("Bienvenido al traductor \n Escoge el algoritmo deseado\n 1.Splay Tree\n 2.AVL Tree\n 3.Salir");
